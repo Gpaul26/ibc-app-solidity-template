@@ -1,3 +1,18 @@
+Team Members
+
+@Gpaul26 - Team Leader
+
+@ChienMaiDinh - Developers
+
+@hunteran - Developers
+
+@pctsvn - Developers
+
+@TuanAnh1196 - Developers
+
+
+
+
 ## Brigde Lottery contract using Polymer IBC
 
 ## Usage
